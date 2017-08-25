@@ -2,5 +2,6 @@
 2 master
 3 master
 3.1 on master
-CODER A
+<<<<<<< HEAD
+CODER A add bug1
 CODE B
